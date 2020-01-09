@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0dd3cf"],{8111:function(n,e,t){"use strict";t.r(e);var u=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v(n._s(n.value))])},a=[],c={components:{},data:function(){return{value:"匡威"}}},o=c,r=t("2877"),s=Object(r["a"])(o,u,a,!1,null,"3babb932",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0dd3cf.d0748a8a.js.map

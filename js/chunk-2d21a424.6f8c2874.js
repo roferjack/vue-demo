@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21a424"],{bb6d:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("header",[e._v(e._s(e.value))]),t("router-view")],1)},r=[],u={components:{},data:function(){return{value:"鞋子组件",arr:[1,5,3,6,2,4]}},created:function(){},methods:{}},c=u,o=t("2877"),d=Object(o["a"])(c,a,r,!1,null,"5d923ca0",null);n["default"]=d.exports}}]);
+//# sourceMappingURL=chunk-2d21a424.6f8c2874.js.map

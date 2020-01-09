@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e6315"],{9866:function(e,n,t){"use strict";t.r(n);var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(e._s(e.value))])},a=[],c={components:{},data:function(){return{value:"李宁"}}},o=c,r=t("2877"),s=Object(r["a"])(o,u,a,!1,null,"01f3e1ba",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0e6315.da5ffa7b.js.map

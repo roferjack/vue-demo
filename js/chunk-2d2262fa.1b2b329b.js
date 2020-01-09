@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2262fa"],{e81b:function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(e._s(e.value))])},c=[],u={components:{},data:function(){return{value:"上衣组件"}}},o=u,r=t("2877"),s=Object(r["a"])(o,a,c,!1,null,"3ce4ac16",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d2262fa.1b2b329b.js.map
